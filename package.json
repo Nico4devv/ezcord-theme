@@ -1,7 +1,7 @@
 {
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
-  "description": "A dark Discord-inspired theme for Python Discord bot development with ezcord, discord.py and py-cord",
+  "description": "A modern dark theme optimized for Python bot development",
   "version": "1.0.0",
   "publisher": "zkawiy",
   "author": {
@@ -18,10 +18,9 @@
   "keywords": [
     "theme",
     "dark theme",
-    "discord",
     "python",
-    "discord.py",
-    "color-theme"
+    "bot development",
+    "color theme"
   ],
   "galleryBanner": {
     "color": "#2b2d31",
