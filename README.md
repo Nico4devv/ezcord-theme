@@ -1,8 +1,6 @@
 # ezcord Theme
 
-<p align="center">
-  <img src="icon.png" alt="ezcord Theme Icon" width="128" height="128">
-</p>
+
 
 A dark Discord-inspired VS Code theme, specially developed for **ezcord** and **Discord.py** bot development.
 
