@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+.vscode/**
+.vscode-test/**
+.gitignore
+.git/**
+node_modules/**
+*.vsix
+**/*.map
+**/.DS_Store
