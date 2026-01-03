@@ -32,3 +32,15 @@ All notable changes to this project will be documented in this file.
 * [ ] Theme variants (High Contrast, Pastel)
 
 [1.0.0]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.0
+
+## [1.0.1] - 2026-01-04
+
+### Changed
+* 🎨 Complete theme redesign with neon cyberpunk colors
+* ⚫ Darker background for better contrast
+* ✨ Added bright neon accents (green, pink, cyan, orange)
+* 💪 Bold styling for keywords and functions
+* 🔧 Improved syntax highlighting
+
+## [1.0.0] - 2026-01-03
+...

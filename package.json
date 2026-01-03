@@ -2,7 +2,7 @@
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
   "description": "A modern dark theme optimized for Python bot development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "zkawiy",
   "author": {
     "name": "Kawis Developing",
@@ -18,8 +18,6 @@
   "keywords": [
     "theme",
     "dark theme",
-    "python",
-    "bot development",
     "color theme"
   ],
   "galleryBanner": {
