@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "publisher": "zkawiy",
   "author": {
-    "name": "Kawis Developing"
+    "name": "Kawi's Developing"
   },
   "license": "MIT",
   "engines": {
@@ -15,15 +15,12 @@
     "Themes"
   ],
   "keywords": [
-    "theme",
-    "dark",
-    "discord",
-    "ezcord",
-    "python",
-    "discord.py",
-    "color-theme",
-    "py-cord"
-  ],
+  "theme",
+  "dark theme",
+  "python",
+  "discord bot",
+  "color theme"
+],
   "galleryBanner": {
     "color": "#2b2d31",
     "theme": "dark"
