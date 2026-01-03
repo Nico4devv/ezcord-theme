@@ -42,5 +42,6 @@
   "bugs": {
     "url": "https://github.com/Nico4devv/ezcord-theme/issues"
   },
+  "icon": "extension/logo.png",
   "homepage": "https://github.com/Nico4devv/ezcord-theme#readme"
 }
