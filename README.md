@@ -4,46 +4,46 @@
   <img src="icon.png" alt="ezcord Theme Icon" width="128" height="128">
 </p>
 
-Ein dunkles Discord-inspiriertes VS Code Theme, speziell entwickelt für **ezcord** und **Discord.py** Bot-Entwicklung.
+A dark Discord-inspired VS Code theme, specially developed for **ezcord** and **Discord.py** bot development.
 
 ## ✨ Features
 
-- 🎨 **Discord-Farbpalette**: Verwendet die originalen Discord-Farben für ein vertrautes Gefühl
-- 🐍 **Python-optimiert**: Besonders gut lesbar für Discord.py und ezcord Code
-- 🌙 **Dunkler Modus**: Schont die Augen bei langen Coding-Sessions
-- 🔍 **Klare Syntax-Hervorhebung**: Jedes Element hat seine eigene, gut unterscheidbare Farbe
+- 🎨 **Discord Color Palette**: Uses the original Discord colors for a familiar feel
+- 🐍 **Python-optimized**: Especially readable for Discord.py and ezcord code
+- 🌙 **Dark Mode**: Easy on the eyes during long coding sessions
+- 🔍 **Clear Syntax Highlighting**: Each element has its own, easily distinguishable color
 
-## 🎨 Farbschema
+## 🎨 Color Scheme
 
-| Element | Farbe | Hex |
+| Element | Color | Hex |
 |---------|-------|-----|
-| Funktionen | Discord Blau | `#5865f2` |
-| Klassen | Discord Grün | `#57f287` |
-| Keywords | Discord Rot | `#ed4245` |
-| Strings | Grün | `#57f287` |
+| Functions | Discord Blue | `#5865f2` |
+| Classes | Discord Green | `#57f287` |
+| Keywords | Discord Red | `#ed4245` |
+| Strings | Green | `#57f287` |
 | Decorators | Pink | `#eb459e` |
-| Kommentare | Grau | `#4e5058` |
-| Zahlen | Gelb | `#fee75c` |
+| Comments | Gray | `#4e5058` |
+| Numbers | Yellow | `#fee75c` |
 
 ## 📦 Installation
 
-1. Öffne VS Code
-2. Gehe zu Extensions (Ctrl+Shift+X)
-3. Suche nach "ezcord Theme"
-4. Klicke auf "Install"
-5. Öffne die Command Palette (Ctrl+Shift+P)
-6. Tippe "Color Theme" und wähle **ezcord**
+1. Open VS Code
+2. Go to Extensions (Ctrl+Shift+X)
+3. Search for "ezcord Theme"
+4. Click "Install"
+5. Open the Command Palette (Ctrl+Shift+P)
+6. Type "Color Theme" and select **ezcord**
 
-## 🚀 Ideal für
+## 🚀 Ideal for
 - Py-cord
 - Discord.py Bots
 - ezcord Framework
-- Python Entwicklung
+- Python Development
 - JavaScript/TypeScript
-- Markdown Dokumentation
-- JSON/YAML Konfigurationen
+- Markdown Documentation
+- JSON/YAML Configurations
 
-
+## 📸 Screenshots
 
 ### discord.py Code
 ```python
@@ -65,11 +65,6 @@ import discord
 from discord.ext import commands
 from discord.commands import slash_command
 
-import discord
-from discord.ext import commands
-from discord.commands import slash_command
-
-
 class MyCog(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
@@ -80,36 +75,35 @@ class MyCog(commands.Cog):
 
 def setup(bot):
     bot.add_cog(MyCog(bot))
-
+```
 
 ### Terminal
-Perfekt abgestimmte Terminal-Farben im Discord-Stil.
+Perfectly tuned terminal colors in Discord style.
 
-## 💡 Tipps
+## 💡 Tips
 
-- Verwende die Extension "Bracket Pair Colorizer" für noch bessere Lesbarkeit
-- Aktiviere "Editor: Bracket Pair Guides" in den Einstellungen
-- Font-Empfehlung: Fira Code mit Ligatures
+- Use the "Bracket Pair Colorizer" extension for even better readability
+- Enable "Editor: Bracket Pair Guides" in settings
+- Font recommendation: Fira Code with Ligatures
 
-## 🐛 Feedback & Probleme
+## 🐛 Feedback & Issues
 
-Hast du Vorschläge oder Probleme gefunden? 
-- [GitHub Issues](https://github.com/dein-username/ezcord-theme/issues)
-- [Bewerte das Theme](https://marketplace.visualstudio.com/items?itemName=kawi.ezcord-theme&ssr=false#review-details)
+Do you have suggestions or found problems? 
+- [GitHub Issues](https://github.com/your-username/ezcord-theme/issues)
+- [Rate the Theme](https://marketplace.visualstudio.com/items?itemName=kawi.ezcord-theme&ssr=false#review-details)
 
 ## 📝 Changelog
 
-Siehe [CHANGELOG.md](CHANGELOG.md) für alle Änderungen.
+See [CHANGELOG.md](CHANGELOG.md) for all changes.
 
-## 📄 Lizenz
+## 📄 License
 
-MIT License - siehe [LICENSE](LICENSE)
+MIT License - see [LICENSE](LICENSE)
 
 ## ❤️ Credits
 
-Entwickelt mit 💜 für die ezcord und Discord.py Community.
+Developed with 💜 for the ezcord and Discord.py community.
 
 ---
 
-**Viel Spaß beim Coden! 🚀**
-```
+**Happy Coding! 🚀**
