@@ -1,11 +1,12 @@
 {
   "name": "ezcord-theme",
-  "displayName": "ezcord Theme",
-  "description": "A dark Discord-inspired theme for ezcord and Discord.py Py-cord bot development.",
+  "displayName": "Ezcord Theme",
+  "description": "A dark Discord-inspired theme for Python Discord bot development with ezcord, discord.py and py-cord",
   "version": "1.0.0",
   "publisher": "zkawiy",
   "author": {
-    "name": "Kawi's Developing"
+    "name": "Kawis Developing",
+    "email": "nicorysi@outlook.com"
   },
   "license": "MIT",
   "engines": {
@@ -15,12 +16,13 @@
     "Themes"
   ],
   "keywords": [
-  "theme",
-  "dark theme",
-  "python",
-  "discord bot",
-  "color theme"
-],
+    "theme",
+    "dark theme",
+    "discord",
+    "python",
+    "discord.py",
+    "color-theme"
+  ],
   "galleryBanner": {
     "color": "#2b2d31",
     "theme": "dark"
@@ -28,7 +30,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "ezcord",
+        "label": "Ezcord Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ezcord-color-theme.json"
       }
