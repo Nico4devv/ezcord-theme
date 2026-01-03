@@ -3,7 +3,7 @@
   "displayName": "ezcord Theme",
   "description": "A dark Discord-inspired theme for ezcord and Discord.py Py-cord bot development.",
   "version": "1.0.0",
-  "publisher": "zkawiy",
+  "publisher": "kawi",
   "author": {
     "name": "kawi's Developing"
   },
@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dein-username/ezcord-theme"
+    "url": "https://github.com/Nico4devv/ezcord-theme"
   },
   "bugs": {
     "url": "https://github.com/Nico4devv/ezcord-theme/issues"
