@@ -27,7 +27,7 @@ All notable changes to this project will be documented in this file.
 * 📝 Updated README with new color palette and theme description
 * 🎨 Documented neon cyberpunk color scheme
 
-## [1.0.1] - 2026-01-04
+## [1.0.1] - 2026-01-03
 
 ### Changed
 * 🎨 Complete theme redesign with neon cyberpunk colors
@@ -69,6 +69,7 @@ All notable changes to this project will be documented in this file.
 * [ ] Community theme customization options
 * [ ] Additional semantic token support
 
+[1.0.4]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.4
 [1.0.3]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.3
 [1.0.2]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.2
 [1.0.1]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.1

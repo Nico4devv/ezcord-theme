@@ -1,8 +1,8 @@
 {
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
-  "description": "A modern dark theme optimized for Python bot development",
-  "version": "1.0.3",
+  "description": "A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd",
+  "version": "1.0.4",
   "publisher": "zkawiy",
   "author": {
     "name": "Kawis Developing",
@@ -18,10 +18,14 @@
   "keywords": [
     "theme",
     "dark theme",
-    "color theme"
+    "color theme",
+    "python",
+    "cyberpunk",
+    "neon",
+    "bot development"
   ],
   "galleryBanner": {
-    "color": "#2b2d31",
+    "color": "#0d0e10",
     "theme": "dark"
   },
   "contributes": {
@@ -30,6 +34,21 @@
         "label": "Ezcord Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/ezcord-color-theme.json"
+      },
+      {
+        "label": "Ezcord High Contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ezcord-highcontrast-theme.json"
+      },
+      {
+        "label": "Ezcord Light",
+        "uiTheme": "vs",
+        "path": "./themes/ezcord-light-theme.json"
+      },
+      {
+        "label": "Ezcord Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ezcord-pastel-theme.json"
       }
     ]
   },
