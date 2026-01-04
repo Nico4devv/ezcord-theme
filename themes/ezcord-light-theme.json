@@ -348,4 +348,23 @@
       }
     }
   ]
+  ,
+  "semanticTokenColors": {
+    "namespace": "#00aa66",
+    "type": "#00aacc",
+    "class": "#cc8800",
+    "enum": "#cc0055",
+    "interface": "#00aacc",
+    "parameter": "#2b2d31",
+    "variable": "#2b2d31",
+    "property": "#cc8800",
+    "function": "#00aacc",
+    "method": "#00aacc",
+    "keyword": "#cc0055",
+    "comment": { "foreground": "#8a8d92", "fontStyle": "italic" },
+    "string": "#00aa66",
+    "number": "#cc8800",
+    "operator": "#cc0055",
+    "parameter.declaration": { "foreground": "#2b2d31", "fontStyle": "italic" }
+  }
 }
