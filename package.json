@@ -57,6 +57,13 @@
         "label": "Ezcord Icons",
         "path": "./icons/ezcord-icon-theme.json"
       }
+    ],
+    "productIconThemes": [
+      {
+        "id": "ezcord-product-icons",
+        "label": "Ezcord Product Icons",
+        "path": "./product-icons/ezcord-product-icon-theme.json"
+      }
     ]
   },
   "repository": {

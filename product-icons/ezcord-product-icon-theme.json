@@ -1,0 +1,53 @@
+{
+  "fonts": [
+    {
+      "id": "ezcord-product-icons",
+      "src": [
+        {
+          "path": "./ezcord-product-icons.woff",
+          "format": "woff"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "files": {
+      "fontPath": "./files.svg"
+    },
+    "search": {
+      "fontPath": "./search.svg"
+    },
+    "search-view-icon": {
+      "fontPath": "./search.svg"
+    },
+    "source-control": {
+      "fontPath": "./source-control.svg"
+    },
+    "debug-alt": {
+      "fontPath": "./debug.svg"
+    },
+    "debug": {
+      "fontPath": "./debug.svg"
+    },
+    "testing-view-icon": {
+      "fontPath": "./testing.svg"
+    },
+    "beaker": {
+      "fontPath": "./testing.svg"
+    },
+    "account": {
+      "fontPath": "./account.svg"
+    },
+    "settings-gear": {
+      "fontPath": "./gear.svg"
+    },
+    "gear": {
+      "fontPath": "./gear.svg"
+    },
+    "remote": {
+      "fontPath": "./remote.svg"
+    }
+  }
+}

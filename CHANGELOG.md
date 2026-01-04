@@ -2,10 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 1.0.6 - 2026-1-4
+* [ ] Community theme customization options
+* [ ] Additional semantic token support
+
+
 ## [1.0.5] - 2026-01-04
 
 ### Added
 * 🗂️ **Ezcord Icons** file icon theme with neon SVGs for files/folders and key languages (py, js/ts, json, md, yaml, html, css)
+
 
 ### Changed
 * 🌟 Activity Bar inactive icons now keep the neon tint (dark + high contrast)
@@ -77,10 +83,6 @@ All notable changes to this project will be documented in this file.
 * ✅ Light theme variant
 * ✅ Additional language support
 * ✅ Theme variants (High Contrast, Pastel)
-
-### Upcoming Features
-* [ ] Community theme customization options
-* [ ] Additional semantic token support
 
 [1.0.5]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.5
 [1.0.4]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.4
