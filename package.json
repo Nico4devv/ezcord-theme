@@ -2,7 +2,7 @@
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
   "description": "A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "zkawiy",
   "author": {
     "name": "kawi's Developing",
@@ -56,13 +56,6 @@
         "id": "ezcord-icons",
         "label": "Ezcord Icons",
         "path": "./icons/ezcord-icon-theme.json"
-      }
-    ],
-    "productIconThemes": [
-      {
-        "id": "ezcord-product-icons",
-        "label": "Ezcord Product Icons",
-        "path": "./product-icons/ezcord-product-icon-theme.json"
       }
     ]
   },
