@@ -2,10 +2,10 @@
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
   "description": "A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "zkawiy",
   "author": {
-    "name": "Kawis Developing",
+    "name": "kawi's Developing",
     "email": "nicorysi@outlook.com"
   },
   "license": "MIT",
