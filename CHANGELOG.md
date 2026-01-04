@@ -2,9 +2,30 @@
 
 All notable changes to this project will be documented in this file.
 
-## 1.0.6 - 2026-1-4
-* [ ] Community theme customization options
-* [ ] Additional semantic token support
+## [1.0.6] - 2026-01-04
+
+### Added
+* 🎨 **Ezcord Product Icons** - Custom neon cyberpunk UI icons for VS Code Activity Bar
+  * Files icon (cyan) - Document with neon outline and content lines
+  * Search icon (green) - Magnifying glass with inner ring glow effect
+  * Source Control icon (pink) - Git branch network visualization
+  * Debug icon (yellow) - Diamond shape with checkmark
+  * Extensions icon (purple) - 4-grid layout with filled corner
+  * Testing icon (cyan) - Diamond pattern with connected dots
+  * Account icon (orange) - User profile with circle backdrop
+  * Settings icon (purple) - Gear with star points and center dot
+  * Remote icon (cyan) - Server/terminal with connected dots
+* 📦 Product Icon Theme configuration in package.json
+* 🗂️ New `product-icons/` directory with all UI icon assets
+* 🌟 Complete neon color coding system for all UI icons
+
+### Changed
+* 💜 Refined Extensions icon design through multiple iterations for optimal appearance
+* 🎯 All product icons now use consistent 16x16 viewBox with 1.5-1.8px stroke width
+* ✨ Enhanced icon visibility with dark backgrounds and opacity variations
+
+
+
 
 
 ## [1.0.5] - 2026-01-04
