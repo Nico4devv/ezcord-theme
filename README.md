@@ -1,50 +1,75 @@
-# The one Ezcord Theme
+# Changelog
 
+All notable changes to this project will be documented in this file.
 
-A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd.
+## [1.0.3] - 2026-01-04
 
-## Python File example
+### Added
+* ✨ **Light Theme Variant** - Perfect for daytime coding
+* 🎨 **High Contrast Theme** - Maximum contrast with pure colors for better accessibility
+* 🌸 **Pastel Theme** - Soft, relaxing colors for your eyes
+* 🎯 Four complete theme variants to choose from
 
-![Python Example Preview](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/Python.png)
+### Changed
+* 📦 Updated package.json with all theme variants
+* 📝 Enhanced keywords for better discoverability
+* 🔢 Version bump to 1.1.0
 
-## JS File example
+### Fixed
+* 🐛 Improved color contrast for better readability
+* 🔧 Fixed inconsistent bracket matching colors
+* ✨ Corrected terminal ANSI color mappings
+* 🎨 Enhanced git decoration visibility
 
-![JS Example Preview](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/js-example.png)
+## [1.0.2] - 2026-01-04
 
-## Installing
+### Changed
+* 📝 Updated README with new color palette and theme description
+* 🎨 Documented neon cyberpunk color scheme
 
-Go to Extensions and search for 'Ezcord Theme' and install it.
-That's it!
+## [1.0.1] - 2026-01-04
 
-[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zkawiy.ezcord-theme)
+### Changed
+* 🎨 Complete theme redesign with neon cyberpunk colors
+* ⚫ Darker background for better contrast
+* ✨ Added bright neon accents (green, pink, cyan, orange)
+* 💪 Bold styling for keywords and functions
+* 🔧 Improved syntax highlighting
 
-## Issues
+## [1.0.0] - 2026-01-03
 
-If you find any weird colors or combinations, feel free to open an issue on [GitHub Issues](https://github.com/Nico4devv/ezcord-theme/issues).
+### Added
+* 🎉 Initial release of the ezcord theme
+* 🎨 Discord-inspired color palette
+* 🐍 Optimization for Python/Discord.py/Py-cord code
+* 📁 Support for all common file types
+* 💻 Discord-style terminal colors
+* 🔧 Activity Bar and Sidebar design
+* 📋 Optimized list and dropdown elements
+* ✨ Syntax highlighting for:
+   * Python (discord.py, py-cord, ezcord)
+   * JavaScript/TypeScript
+   * JSON/YAML
+   * Markdown
+   * HTML/CSS
 
+### Design Highlights
+* Editor Background: `#2b2d31`
+* Main colors based on Discord branding
+* High-contrast color choices for better readability
+* Consistent color usage across all UI elements
 
-## Color Palette
+### Completed Features
+* ✅ Light theme variant
+* ✅ Additional language support
+* ✅ Theme variants (High Contrast, Pastel)
 
-The theme uses vibrant neon colors inspired by cyberpunk aesthetics:
+### Upcoming Features
+* [ ] Custom icons for specific file types
+* [ ] Community theme customization options
+* [ ] Additional semantic token support
 
-- **Background**: `#0d0e10` (Deep Black)
-- **Foreground**: `#e3e5e8` (Light Gray)
-- **Primary Accent**: `#00ff88` (Neon Green)
-- **Keywords**: `#ff0077` (Neon Pink)
-- **Functions**: `#00ddff` (Neon Cyan)
-- **Classes**: `#ffaa00` (Neon Orange)
-- **Strings**: `#00ff88` (Neon Green)
-- **Numbers**: `#ffaa00` (Neon Orange)
-- **Comments**: `#5a5d62` (Muted Gray)
-
-## What Makes It Different
-
-- ⚫ Extremely dark background for reduced eye strain
-- 🌈 Bright neon colors that pop and make code instantly recognizable
-- 💪 Bold keywords and function names for better code scanning
-- ✨ Glowing borders and accents for active elements
-- 🎮 Perfect for late-night coding sessions
-
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details
+[1.0.3]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.3
+[1.0.2]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.2
+[1.0.1]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.1
+[1.0.0]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.0

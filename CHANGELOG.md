@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2026-01-04
+
+### Added
+* ✨ **Light Theme Variant** - Perfect for daytime coding
+* 🎨 **High Contrast Theme** - Maximum contrast with pure colors for better accessibility
+* 🌸 **Pastel Theme** - Soft, relaxing colors for your eyes
+* 🎯 Four complete theme variants to choose from
+
+### Bug
+* ⛔ bug fix 
+
+### Changed
+* 📦 Updated package.json with all theme variants
+* 📝 Enhanced keywords for better discoverability
+* 🔢 Version bump to 1.0.3
+
 ## [1.0.2] - 2026-01-04
 
 ### Changed
@@ -28,7 +44,7 @@ All notable changes to this project will be documented in this file.
 * 🔧 Activity Bar and Sidebar design
 * 📋 Optimized list and dropdown elements
 * ✨ Syntax highlighting for:
-   * Python (discord.py, py-cord, ezcord)
+   * Python
    * JavaScript/TypeScript
    * JSON/YAML
    * Markdown
@@ -40,12 +56,17 @@ All notable changes to this project will be documented in this file.
 * High-contrast color choices for better readability
 * Consistent color usage across all UI elements
 
-### Upcoming Features
-* [ ] Light theme variant
-* [ ] Additional language support
-* [ ] Custom icons for specific file types
-* [ ] Theme variants (High Contrast, Pastel)
+### Completed Features
+* ✅ Light theme variant
+* ✅ Additional language support
+* ✅ Theme variants (High Contrast, Pastel)
 
+### Upcoming Features
+* [ ] Custom icons for specific file types
+* [ ] Community theme customization options
+* [ ] Additional semantic token support
+
+[1.0.3]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.3
 [1.0.2]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.2
 [1.0.1]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.1
 [1.0.0]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.0
