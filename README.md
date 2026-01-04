@@ -1,6 +1,5 @@
 # The one Ezcord Theme
 
-![Logo](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/logo.png)
 
 A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd.
 
@@ -23,20 +22,6 @@ That's it!
 
 If you find any weird colors or combinations, feel free to open an issue on [GitHub Issues](https://github.com/Nico4devv/ezcord-theme/issues).
 
-Also do that if you find a crazy pink color anywhere, I used that one (#ff00dd) if I haven't found out where it's applied :D
-
-## Fonts
-
-I use Fira Code with a font weight of 400 for the Theme.
-If you download it and install it on your machine, you can set it in your settings.json like this:
-
-```json
-{
-  "editor.fontFamily": "Fira Code",
-  "editor.fontWeight": "400",
-  "editor.fontLigatures": true
-}
-```
 
 ## Color Palette
 
