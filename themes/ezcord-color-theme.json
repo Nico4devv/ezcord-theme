@@ -7,14 +7,14 @@
     "editorLineNumber.foreground": "#3a3d42",
     "editorLineNumber.activeForeground": "#57f287",
     "editor.selectionBackground": "#57f28750",
-    "editor.inactiveSelectionBackground": "#2a2d32",
+    "editor.inactiveSelectionBackground": "#2a2d3250",
     "editor.lineHighlightBackground": "#16181c",
     "editorCursor.foreground": "#00ff88",
     "editor.findMatchBackground": "#ff007790",
     "editor.findMatchHighlightBackground": "#ff007740",
     "editorWhitespace.foreground": "#2a2d32",
-    "editorIndentGuide.background": "#1a1d22",
-    "editorIndentGuide.activeBackground": "#57f28760",
+    "editorIndentGuide.background1": "#1a1d22",
+    "editorIndentGuide.activeBackground1": "#57f28760",
     "editorRuler.foreground": "#1a1d22",
     "editorWidget.background": "#0a0b0d",
     "editorWidget.border": "#00ff8860",
@@ -335,8 +335,7 @@
       "name": "Markdown Code",
       "scope": ["markup.inline.raw", "markup.fenced_code"],
       "settings": {
-        "foreground": "#00ff88",
-        "background": "#0a0b0d60"
+        "foreground": "#00ff88"
       }
     },
     {
@@ -348,4 +347,32 @@
       }
     }
   ]
+  ,
+  "semanticTokenColors": {
+    "namespace": "#00ff88",
+    "type": "#00ddff",
+    "class": "#ffaa00",
+    "enum": "#ff0077",
+    "interface": "#00ddff",
+    "typeParameter": "#00ddff",
+    "parameter": "#e3e5e8",
+    "variable": "#e3e5e8",
+    "property": "#ffaa00",
+    "enumMember": "#ff0077",
+    "event": "#00ddff",
+    "function": "#00ddff",
+    "method": "#00ddff",
+    "macro": "#ff00ff",
+    "keyword": "#ff0077",
+    "modifier": "#ff00ff",
+    "comment": { "foreground": "#5a5d62", "fontStyle": "italic" },
+    "string": "#00ff88",
+    "number": "#ffaa00",
+    "regexp": "#00ddff",
+    "operator": "#ff0077",
+    "property.declaration": { "foreground": "#ffaa00" },
+    "parameter.declaration": { "foreground": "#e3e5e8", "fontStyle": "italic" },
+    "variable.readonly": { "foreground": "#ff00ff" },
+    "function.defaultLibrary": { "foreground": "#8a8d92" }
+  }
 }

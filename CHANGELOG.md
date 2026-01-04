@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1] - 2026-01-04
+
+### Added
+* 🎯 **Semantic Token Colors** - Enhanced `semanticTokenColors` for TypeScript/JavaScript/CSS across all theme files:
+  * `ezcord-color-theme.json`
+  * `ezcord-light-theme.json`
+  * `ezcord-highcontrast-theme.json`
+  * `ezcord-pastel-theme.json`
+* 🎨 **Theme Indicator Extension** - Status Bar items with live theme display:
+  * `$(paintcan)` Theme Switcher - quick access to all 4 themes
+  * `$(symbol-color)` Accent Color - 25 predefined accent colors
+  * Both buttons side-by-side in the status bar
+* 🌈 **Accent Color Customization** - Customize colors for Activity Bar, Status Bar, Cursor, Buttons, Tabs
+
+### Improved
+* 💜 High-Contrast Theme - better color distribution (not just green), enhanced visual variety
+  * Cyan/Blue for Types, Interfaces, Functions
+  * Orange/Yellow for Classes, Numbers, Properties
+  * Magenta/Pink for Keywords, Enums
+  * Gray for Parameters
+
+
 ## [1.1.0] - 2026-01-04
 * Remote Ezcord Product Icons
 
