@@ -2,7 +2,7 @@
 
 ## Icon previews
 
-Eine Vorschau der enthaltenen Ezcord-Icons (lokal aus dem `icons/`-Ordner):
+A preview of the included Ezcord icons (local from the `icons/` folder):
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
    <img src="icons/file-py.svg" alt="file-py" width="48" height="48">
@@ -19,10 +19,7 @@ Eine Vorschau der enthaltenen Ezcord-Icons (lokal aus dem `icons/`-Ordner):
    <img src="icons/file-svg.svg" alt="file-svg" width="48" height="48">
    <img src="icons/file-yaml.svg" alt="file-svg" width="48" height="48">
    <img src="icons/file-env.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-zip.svg" alt="file-svg" width="48" height="48">
    <img src="icons/file-lua.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-kotlin.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-jinja.svg" alt="file-svg" width="48" height="48">
 </div>
 
 A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd. Now available in **4 variants** to suit every coding style!
