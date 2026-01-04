@@ -1,36 +1,65 @@
 ```markdown
-# Ezcord Theme
 
-A dark Discord-inspired theme for VS Code, optimized for ezcord and Discord.py/Py-cord bot development.
+# The one Ezcord Theme
 
-## Features
+![Logo](extension/logo.png)
 
-- Discord-inspired dark color scheme
-- Optimized for Python Discord bot development
-- Easy on the eyes for long coding sessions
-- Clean syntax highlighting for Python, JavaScript, JSON, Markdown and more
+A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd.
 
-## Installation
+## Python File example
 
-1. Open VS Code
-2. Go to Extensions (Ctrl+Shift+X)
-3. Search for "Ezcord Theme"
-4. Click Install
-5. Select the theme: File > Preferences > Color Theme > Ezcord Dark
+![Python Example Preview](extension/Python.png)
+
+## JS File example
+
+![JS Example Preview](extension/js-example.png)
+
+## Installing
+
+Go to Extensions and search for 'Ezcord Theme' and install it.
+That's it!
+
+[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zkawiy.ezcord-theme)
+
+## Issues
+
+If you find any weird colors or combinations, feel free to open an issue on [GitHub Issues](https://github.com/Nico4devv/ezcord-theme/issues).
+
+Also do that if you find a crazy pink color anywhere, I used that one (#ff00dd) if I haven't found out where it's applied :D
+
+## Fonts
+
+I use Fira Code with a font weight of 400 for the Theme.
+If you download it and install it on your machine, you can set it in your settings.json like this:
+
+```json
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true
+}
+```
 
 ## Color Palette
 
-The theme uses Discord's signature colors:
-- Background: `#2b2d31`
-- Foreground: `#dbdee1`
-- Accent: `#5865f2` (Discord Blurple)
-- Success: `#57f287` (Discord Green)
-- Warning: `#fee75c` (Discord Yellow)
-- Error: `#ed4245` (Discord Red)
+The theme uses vibrant neon colors inspired by cyberpunk aesthetics:
+- **Background**: `#0d0e10` (Deep Black)
+- **Foreground**: `#e3e5e8` (Light Gray)
+- **Primary Accent**: `#00ff88` (Neon Green)
+- **Keywords**: `#ff0077` (Neon Pink)
+- **Functions**: `#00ddff` (Neon Cyan)
+- **Classes**: `#ffaa00` (Neon Orange)
+- **Strings**: `#00ff88` (Neon Green)
+- **Numbers**: `#ffaa00` (Neon Orange)
+- **Comments**: `#5a5d62` (Muted Gray)
 
-## Support
+## What Makes It Different
 
-For issues and suggestions: [GitHub Issues](https://github.com/Nico4devv/ezcord-theme/issues)
+- ⚫ Extremely dark background for reduced eye strain
+- 🌈 Bright neon colors that pop and make code instantly recognizable
+- 💪 Bold keywords and function names for better code scanning
+- ✨ Glowing borders and accents for active elements
+- 🎮 Perfect for late-night coding sessions
 
 ## License
 

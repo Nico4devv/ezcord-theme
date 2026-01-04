@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2026-01-04
+
+### Changed
+* 📝 Updated README with new color palette and theme description
+* 🎨 Documented neon cyberpunk color scheme
+
+## [1.0.1] - 2026-01-04
+
+### Changed
+* 🎨 Complete theme redesign with neon cyberpunk colors
+* ⚫ Darker background for better contrast
+* ✨ Added bright neon accents (green, pink, cyan, orange)
+* 💪 Bold styling for keywords and functions
+* 🔧 Improved syntax highlighting
+
 ## [1.0.0] - 2026-01-03
 
 ### Added
@@ -31,16 +46,6 @@ All notable changes to this project will be documented in this file.
 * [ ] Custom icons for specific file types
 * [ ] Theme variants (High Contrast, Pastel)
 
+[1.0.2]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.2
+[1.0.1]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.1
 [1.0.0]: https://github.com/Nico4devv/ezcord-theme/releases/tag/v1.0.0
-
-## [1.0.1] - 2026-01-04
-
-### Changed
-* 🎨 Complete theme redesign with neon cyberpunk colors
-* ⚫ Darker background for better contrast
-* ✨ Added bright neon accents (green, pink, cyan, orange)
-* 💪 Bold styling for keywords and functions
-* 🔧 Improved syntax highlighting
-
-## [1.0.0] - 2026-01-03
-...
