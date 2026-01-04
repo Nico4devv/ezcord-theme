@@ -22,6 +22,7 @@ A preview of the included Ezcord icons (Github from the `icons/` folder):
    <img src="icons/file-lua.svg" alt="file-svg" width="48" height="48">
 </div>
 
+
 A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd. Now available in **4 variants** to suit every coding style!
 
 ## 🎨 Available Themes
