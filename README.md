@@ -36,6 +36,8 @@ Soft, relaxing pastel colors for extended coding sessions.
 
 [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=zkawiy.ezcord-theme)
 
+[Discord server](https://discord.gg/QRcbZSBprQ)
+
 ## 🐛 Issues
 
 If you find any weird colors or combinations, feel free to open an issue on [GitHub Issues](https://github.com/Nico4devv/ezcord-theme/issues).
