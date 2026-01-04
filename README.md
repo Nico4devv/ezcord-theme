@@ -1,18 +1,16 @@
-```markdown
-
 # The one Ezcord Theme
 
-![Logo](extension/logo.png)
+![Logo](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/logo.png)
 
 A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd.
 
 ## Python File example
 
-![Python Example Preview](extension/Python.png)
+![Python Example Preview](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/Python.png)
 
 ## JS File example
 
-![JS Example Preview](extension/js-example.png)
+![JS Example Preview](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/js-example.png)
 
 ## Installing
 
@@ -43,6 +41,7 @@ If you download it and install it on your machine, you can set it in your settin
 ## Color Palette
 
 The theme uses vibrant neon colors inspired by cyberpunk aesthetics:
+
 - **Background**: `#0d0e10` (Deep Black)
 - **Foreground**: `#e3e5e8` (Light Gray)
 - **Primary Accent**: `#00ff88` (Neon Green)
@@ -64,4 +63,3 @@ The theme uses vibrant neon colors inspired by cyberpunk aesthetics:
 ## License
 
 MIT License - see [LICENSE](LICENSE) file for details
-```
