@@ -2,7 +2,7 @@
 
 ## Icon previews
 
-A preview of the included Ezcord icons (local from the `icons/` folder):
+A preview of the included Ezcord icons (Github from the `icons/` folder):
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
    <img src="icons/file-py.svg" alt="file-py" width="48" height="48">
