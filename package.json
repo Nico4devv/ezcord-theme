@@ -2,33 +2,42 @@
   "name": "ezcord-theme",
   "displayName": "Ezcord Theme",
   "description": "A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "zkawiy",
   "author": {
-    "name": "kawi's Developing",
-    "email": "nicorysi@outlook.com"
+    "name": "kawi's Developing"
   },
   "license": "MIT",
   "engines": {
     "vscode": "^1.60.0"
   },
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "main": "./extension/themeIndicator.js",
   "categories": [
-    "Themes"
+    "Themes",
+    "Other"
   ],
   "keywords": [
     "theme",
-    "dark theme",
-    "color theme",
-    "python",
-    "cyberpunk",
-    "neon",
-    "bot development"
+    "Icons"
   ],
   "galleryBanner": {
     "color": "#0d0e10",
     "theme": "dark"
   },
   "contributes": {
+    "commands": [
+      {
+        "command": "ezcord.switchTheme",
+        "title": "Ezcord: Switch Theme"
+      },
+      {
+        "command": "ezcord.changeAccent",
+        "title": "Ezcord: Change Accent Color"
+      }
+    ],
     "themes": [
       {
         "label": "Ezcord Dark",
@@ -67,5 +76,11 @@
     "url": "https://github.com/Nico4devv/ezcord-theme/issues"
   },
   "icon": "extension/logo.png",
-  "homepage": "https://github.com/Nico4devv/ezcord-theme#readme"
+  "homepage": "https://github.com/Nico4devv/ezcord-theme#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
 }

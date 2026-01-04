@@ -160,6 +160,13 @@
       }
     },
     {
+      "name": "Template String",
+      "scope": ["string.template"],
+      "settings": {
+        "foreground": "#00ff88"
+      }
+    },
+    {
       "name": "Number",
       "scope": ["constant.numeric"],
       "settings": {
@@ -175,11 +182,33 @@
       }
     },
     {
+      "name": "Constant",
+      "scope": ["constant.language", "constant.character"],
+      "settings": {
+        "foreground": "#ff0088"
+      }
+    },
+    {
       "name": "Keyword",
       "scope": ["keyword", "keyword.control"],
       "settings": {
+        "foreground": "#ff00dd",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Storage",
+      "scope": ["storage", "storage.type", "storage.modifier"],
+      "settings": {
         "foreground": "#ff00ff",
         "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Operator",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#ff00dd"
       }
     },
     {
@@ -199,10 +228,90 @@
       }
     },
     {
+      "name": "Type",
+      "scope": ["entity.name.type", "support.type"],
+      "settings": {
+        "foreground": "#00ddff"
+      }
+    },
+    {
       "name": "Variable",
-      "scope": ["variable"],
+      "scope": ["variable", "variable.other", "variable.parameter"],
       "settings": {
         "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Variable Language (self, this)",
+      "scope": ["variable.language"],
+      "settings": {
+        "foreground": "#ff88ff",
+        "fontStyle": "italic bold"
+      }
+    },
+    {
+      "name": "Property",
+      "scope": ["variable.other.property"],
+      "settings": {
+        "foreground": "#ffcc00"
+      }
+    },
+    {
+      "name": "Decorator",
+      "scope": ["meta.decorator", "entity.name.function.decorator", "punctuation.definition.decorator"],
+      "settings": {
+        "foreground": "#ff00ff",
+        "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Import",
+      "scope": ["keyword.control.import", "keyword.control.from"],
+      "settings": {
+        "foreground": "#ff00dd"
+      }
+    },
+    {
+      "name": "Tag",
+      "scope": ["entity.name.tag"],
+      "settings": {
+        "foreground": "#ff0088"
+      }
+    },
+    {
+      "name": "Attribute",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#ffaa00"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["punctuation"],
+      "settings": {
+        "foreground": "#aaaaaa"
+      }
+    },
+    {
+      "name": "Invalid",
+      "scope": ["invalid", "invalid.illegal"],
+      "settings": {
+        "foreground": "#ff0000",
+        "fontStyle": "bold underline"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": ["support.constant", "support.variable"],
+      "settings": {
+        "foreground": "#ffaa00"
+      }
+    },
+    {
+      "name": "JSON Key",
+      "scope": ["support.type.property-name.json"],
+      "settings": {
+        "foreground": "#00ddff"
       }
     }
   ]
