@@ -1,0 +1,53 @@
+{
+  "iconDefinitions": {
+    "_file": { "iconPath": "./file.svg" },
+    "_folder": { "iconPath": "./folder.svg" },
+    "_folder_open": { "iconPath": "./folder-open.svg" },
+    "_folder_root": { "iconPath": "./folder-root.svg" },
+    "_file_py": { "iconPath": "./file-py.svg" },
+    "_file_js": { "iconPath": "./file-js.svg" },
+    "_file_ts": { "iconPath": "./file-ts.svg" },
+    "_file_json": { "iconPath": "./file-json.svg" },
+    "_file_md": { "iconPath": "./file-md.svg" },
+    "_file_yaml": { "iconPath": "./file-yaml.svg" },
+    "_file_html": { "iconPath": "./file-html.svg" },
+    "_file_css": { "iconPath": "./file-css.svg" }
+  },
+  "file": "_file",
+  "fileExtensions": {
+    "py": "_file_py",
+    "pyw": "_file_py",
+    "js": "_file_js",
+    "mjs": "_file_js",
+    "cjs": "_file_js",
+    "ts": "_file_ts",
+    "tsx": "_file_ts",
+    "json": "_file_json",
+    "jsonc": "_file_json",
+    "md": "_file_md",
+    "markdown": "_file_md",
+    "yml": "_file_yaml",
+    "yaml": "_file_yaml",
+    "html": "_file_html",
+    "htm": "_file_html",
+    "css": "_file_css",
+    "scss": "_file_css"
+  },
+  "languageIds": {
+    "python": "_file_py",
+    "javascript": "_file_js",
+    "typescript": "_file_ts",
+    "json": "_file_json",
+    "jsonc": "_file_json",
+    "markdown": "_file_md",
+    "yaml": "_file_yaml",
+    "html": "_file_html",
+    "css": "_file_css",
+    "scss": "_file_css"
+  },
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_folder_root",
+  "rootFolderExpanded": "_folder_root",
+  "hidesExplorerArrows": false
+}

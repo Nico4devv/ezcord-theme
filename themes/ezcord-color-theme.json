@@ -26,7 +26,7 @@
     "editorHoverWidget.border": "#00ff8860",
     "activityBar.background": "#0a0b0d",
     "activityBar.foreground": "#00ff88",
-    "activityBar.inactiveForeground": "#3a3d42",
+    "activityBar.inactiveForeground": "#00ff8870",
     "activityBar.activeBorder": "#00ff88",
     "activityBar.border": "#16181c",
     "activityBarBadge.background": "#ff0077",

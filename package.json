@@ -50,6 +50,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/ezcord-pastel-theme.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "ezcord-icons",
+        "label": "Ezcord Icons",
+        "path": "./icons/ezcord-icon-theme.json"
+      }
     ]
   },
   "repository": {
