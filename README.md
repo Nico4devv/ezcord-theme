@@ -1,27 +1,8 @@
 # The one Ezcord Theme
 
-## Icon previews
+![Icon preview strip](https://github.com/Nico4devv/ezcord-theme/raw/HEAD/extension/logo.png)
 
-A preview of the included Ezcord icons (Github from the `icons/` folder):
-
-<div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;">
-   <img src="icons/file-py.svg" alt="file-py" width="48" height="48">
-   <img src="icons/file-js.svg" alt="file-js" width="48" height="48">
-   <img src="icons/file-ts.svg" alt="file-ts" width="48" height="48">
-   <img src="icons/file-json.svg" alt="file-json" width="48" height="48">
-   <img src="icons/file-html.svg" alt="file-html" width="48" height="48">
-   <img src="icons/file-css.svg" alt="file-css" width="48" height="48">
-   <img src="icons/file-java.svg" alt="file-java" width="48" height="48">
-   <img src="icons/file-go.svg" alt="file-go" width="48" height="48">
-   <img src="icons/file-rust.svg" alt="file-rust" width="48" height="48">
-   <img src="icons/file-cpp.svg" alt="file-cpp" width="48" height="48">
-   <img src="icons/file-md.svg" alt="file-md" width="48" height="48">
-   <img src="icons/file-svg.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-yaml.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-env.svg" alt="file-svg" width="48" height="48">
-   <img src="icons/file-lua.svg" alt="file-svg" width="48" height="48">
-</div>
-
+SVGs are restricted in this README, so the preview above uses a PNG. The full icon set ships with the extension inside the `icons/` folder.
 
 A bold neon cyberpunk dark theme with vibrant colors and maximum contrast - designed to stand out from the crowd. Now available in **4 variants** to suit every coding style!
 
