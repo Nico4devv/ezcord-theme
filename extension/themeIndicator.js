@@ -38,8 +38,6 @@ function activate(context) {
       const themes = [
         { label: '🎨 Ezcord Dark', value: 'Ezcord Dark' },
         { label: '💡 Ezcord Light', value: 'Ezcord Light' },
-        { label: '🔆 Ezcord High Contrast', value: 'Ezcord High Contrast' },
-        { label: '🌸 Ezcord Pastel', value: 'Ezcord Pastel' }
       ];
       
       const items = themes.map(theme => ({
